@@ -1,4 +1,6 @@
-# csgo-glpw-demo-py
+# csgo-glow-demo-py
+[![CS:GO on steam](https://img.shields.io/badge/Steam-CS%3AGO-grey?labelColor=black&logo=Steam)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
+![](https://img.shields.io/github/languages/top/KyeOnDiscord/csgo-glow-demo-py)
 [![GitHub stars](https://img.shields.io/github/stars/KyeOnDiscord/csgo-glow-demo-py)](https://github.com/KyeOnDiscord/csgo-glow-demo-py/stargazers)
 ![GitHub all releases](https://img.shields.io/github/downloads/KyeOnDiscord/csgo-glow-demo-py/total)
 
